@@ -2,6 +2,6 @@
 allure-results
 results
 allure-reports
-pycache
+__pycache__
 .idea
 .pytest_cache
