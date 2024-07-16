@@ -1,4 +1,5 @@
 .venv
+allure-results
 results
 allure-reports
 pycache
